@@ -1,0 +1,12 @@
+B a a d x 2 3 5 as
+A C S 22 33 D S 
+s d a 22 s 2 s 1
+x f l c s w w f 0
+x f l c s w w f 2
+V D S 22 33 D S 
+x d d d d d l 2 33 s 2
+B a a d x 80 as
+A C D 22 33 D S 
+s d a 22 s 2 s 1
+V D S 22 70 D S 
+x 45 0 8 i F
